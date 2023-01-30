@@ -1,0 +1,19 @@
+{
+    application,
+    new_lager,
+    [
+        {vsn, "1.0.4"},
+        {description, "lager daily rotation file backend"},
+        {registered, []},
+        {applications, [
+            kernel,
+            stdlib,
+            lager
+        ]},
+        {env,[]},
+        {modules, []},
+        {maintainers, []},
+        {licenses, []},
+        {links, []}
+    ]
+}.
