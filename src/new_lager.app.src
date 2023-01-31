@@ -2,7 +2,7 @@
     application,
     new_lager,
     [
-        {vsn, "1.0.4"},
+        {vsn, "1.0.0"},
         {description, "lager daily rotation file backend"},
         {registered, []},
         {applications, [
